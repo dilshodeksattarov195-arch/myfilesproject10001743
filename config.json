@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneetch",
+        "uuid": 12397959,
+        "checksum": "1cugnb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
